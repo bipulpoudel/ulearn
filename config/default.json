@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://mainUser123:paramount10@ulearn.1cczp.mongodb.net/ulearn?retryWrites=true&w=majority",
+    "jwtToken":"ulearn_developed_by_bipul"
+}
